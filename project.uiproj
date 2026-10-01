@@ -1,0 +1,6 @@
+{
+  "Name": "실습2_뉴스기사스크래핑_작업",
+  "ProjectType": "Process",
+  "Description": "인기·키워드 기사를 수집하고 GenAI로 필터링·요약하여 Excel과 Gmail로 전달하는 UiPath 자동화",
+  "MainFile": "Main.xaml"
+}

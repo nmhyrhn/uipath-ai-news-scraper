@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ox9p3SpSLE-DuRyTY7wdxg" Reference="3BiC7aFQoUWTyY7S02akrw/987hJjFOu0aYh34PVGhUaQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="aitimes.com/news/articleList.html" DesignTimeRectangle="8, 376, 708, 3783" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='sections' tag='DIV' /&gt;" Guid="b29b6732-1eed-4fc4-adf1-838a1899c3a1" ScopeSelectorArgument="&lt;html app='chrome.exe' title='전체 &amp;lt; 기사목록 - AI타임스' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive" />
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

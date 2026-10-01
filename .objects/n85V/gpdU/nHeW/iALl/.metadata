@@ -1,0 +1,13 @@
+﻿{
+  "Name": "인기 기사 제목과 URL 추출",
+  "Type": "Element",
+  "Id": "iALlkMOndU6MBFL_AjqPhA",
+  "Reference": "3BiC7aFQoUWTyY7S02akrw/iALlkMOndU6MBFL_AjqPhA",
+  "ParentRef": "3BiC7aFQoUWTyY7S02akrw/nHeWdOIaVke3DyVVxKP07w",
+  "Created": "2026-09-14T01:23:01.1417753Z",
+  "Updated": "2026-09-14T01:23:01.1417753Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

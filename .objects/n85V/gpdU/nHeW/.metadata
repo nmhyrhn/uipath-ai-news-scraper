@@ -1,0 +1,13 @@
+﻿{
+  "Name": "AI 타임스 인기 기사 열기",
+  "Type": "Screen",
+  "Id": "nHeWdOIaVke3DyVVxKP07w",
+  "Reference": "3BiC7aFQoUWTyY7S02akrw/nHeWdOIaVke3DyVVxKP07w",
+  "ParentRef": "3BiC7aFQoUWTyY7S02akrw/gpdUHgmVWkGhr-typfr1oQ",
+  "Created": "2026-09-14T01:20:55.7026566Z",
+  "Updated": "2026-09-14T01:20:55.7026566Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

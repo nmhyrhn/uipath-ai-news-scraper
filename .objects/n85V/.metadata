@@ -1,0 +1,12 @@
+﻿{
+  "Name": "AI 타임스 인기 기사 열기",
+  "Type": "App",
+  "Id": "n85VtYr-E0mlqc8uYWlzEg",
+  "Reference": "3BiC7aFQoUWTyY7S02akrw/n85VtYr-E0mlqc8uYWlzEg",
+  "Created": "2026-09-14T01:20:37.1746605Z",
+  "Updated": "2026-09-14T01:20:37.1746605Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,12 @@
+.local/
+.project/
+.settings/
+.screenshots/
+.storage/
+.tmh/
+
+*.tmp
+*.log
+*.nupkg
+ArticleList_*.xlsx
+

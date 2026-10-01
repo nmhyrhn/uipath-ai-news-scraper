@@ -1,0 +1,13 @@
+﻿{
+  "Name": "이전 기사보기 다음 기사보기 지침 줄이고…",
+  "Type": "Element",
+  "Id": "SjFO6fDU3Uu8XbalgXuEhQ",
+  "Reference": "3BiC7aFQoUWTyY7S02akrw/SjFO6fDU3Uu8XbalgXuEhQ",
+  "ParentRef": "3BiC7aFQoUWTyY7S02akrw/nHeWdOIaVke3DyVVxKP07w",
+  "Created": "2026-09-14T02:29:35.3776438Z",
+  "Updated": "2026-09-14T02:29:35.3776438Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

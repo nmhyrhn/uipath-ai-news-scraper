@@ -1,0 +1,14 @@
+﻿{
+  "Name": "구글, RSI 도달했나... 트윗 한 …",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "987hJjFOu0aYh34PVGhUaQ",
+  "Reference": "3BiC7aFQoUWTyY7S02akrw/987hJjFOu0aYh34PVGhUaQ",
+  "ParentRef": "3BiC7aFQoUWTyY7S02akrw/cQqgX8PAOkWbthlq1yLn5g",
+  "Created": "2026-09-14T05:02:35.4006302Z",
+  "Updated": "2026-09-14T05:02:35.4006302Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

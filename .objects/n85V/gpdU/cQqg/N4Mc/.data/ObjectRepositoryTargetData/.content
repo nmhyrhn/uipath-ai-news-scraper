@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Uc_bQoDO60S4Rka26fvyoA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="aitimes.com" DesignTimeRectangle="855, 412, 29, 36" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl parentid='userSearch' tag='I' /&gt;" Guid="7c967e5e-25a8-416c-9a47-2a761d4b7ab5" ScopeSelectorArgument="&lt;html app='chrome.exe' title='AI타임스' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="289a7cdaa1ce41f00466be4b665d2569.jpg" xmlns="">04qijBoOKekm6G4CNjtyY6w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

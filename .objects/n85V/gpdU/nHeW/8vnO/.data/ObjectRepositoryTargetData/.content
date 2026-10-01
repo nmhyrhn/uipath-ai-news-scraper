@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="7lNCu7hfF0KsAXO9zrqPzA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="aitimes.com/news/articleView.html" DesignTimeRectangle="70, 196, 600, 124" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl parentid='article-view-content-div' tag='P' /&gt;" Guid="e05e2fff-b002-4d9f-b134-b1234890c991" ScopeSelectorArgument="&lt;html app='chrome.exe' title='&amp;quot;지침 줄이고 완료 기준 명확히&amp;quot;...오픈AI가 밝힌 &amp;apos;아스트라&amp;apos; 활용법 &amp;lt; 산업일반 &amp;lt; AI산업 &amp;lt; 기사본문 - AI타임스' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="dbf75ec968a332cf28d2c38cb0bd7c0c.jpg" xmlns="">08mY8zPHmvUm6P4LL39hSyA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

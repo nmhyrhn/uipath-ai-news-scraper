@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="WV_U0L_tfkCrNzSkSWLnsg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="aitimes.com/news/articleView.html" DesignTimeRectangle="58, -1718, 980, 3733" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl class='article-view-container' parentid='article-view' tag='DIV' /&gt;" Guid="b014b7e1-b1f7-4c31-8552-20452f74f3bc" ScopeSelectorArgument="&lt;html app='chrome.exe' title='&amp;quot;지침 줄이고 완료 기준 명확히&amp;quot;...오픈AI가 밝힌 &amp;apos;아스트라&amp;apos; 활용법 &amp;lt; 산업일반 &amp;lt; AI산업 &amp;lt; 기사본문 - AI타임스' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="d9373ef302379f10db0b1f141ef0fce7.jpg" xmlns="">0BASL6ovb_UKBZTz-KJ5qGw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
